@@ -18,7 +18,7 @@ HTTP1.1 (Reuse)
  
  * Caches and cookies were played were played major role in this version by updating them.
 
- HTTP1.2 (Concurrent)
+ HTTP2 (Concurrent)
  * In HTTP2 version we can send the lots of requests and get the responses quickly compared to the previous versions.
 
  * It is an enhanced version of previous versions.
