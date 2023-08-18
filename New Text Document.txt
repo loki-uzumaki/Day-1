@@ -1,0 +1,49 @@
+1.Difference between HTTP1.1 vs HTTP2
+
+=> HTTP - Hyper Text Transfer Protocol.
+=> HTTP is a method for passing datas/information with set of rules.
+
+HTTP1.0 (Simple)
+ * One input --->
+
+ * One output <--
+
+HTTP1.1 (Reuse)
+ * Here we can give a certain limit of request and get the responses.
+
+ * Here the refresh button were enhanced for the purposes like,
+   1.response is faster  
+   2.to decrease the internet usage 
+   3.time will be saved.
+ 
+ * Caches and cookies were played were played major role in this version by updating them.
+
+ HTTP1.2 (Concurrent)
+ * In HTTP2 version we can send the lots of requests and get the responses quickly compared to the previous versions.
+
+ * It is an enhanced version of previous versions.
+
+
+
+
+2.A blog about objects and its internal representation in Javascript
+ 
+ In javascript one of the most powerful features is its ability to manipulate and work with objects.Objects are at the heart of javascripts flexibility,enabling developers to create complex data structures and models.
+
+* Objects : The building blocks
+  At its core,an object in javascript is a collection of key-value pairs,where keys are string and values can be of any datatype.
+
+* Object creation
+  JavaScript offers multiple ways to create objects: literal notation,constructor functions,and the class syntax.
+
+* The Property chain
+  In JavaScript,objects have a hidden `[[property]]` property,often referred to as the prototype chain.This property establishes the inheritance mechanism,allowing obkects to inherit properties and methods from their prototypes.
+
+* Object properties and methods
+  Property names are strings or symbols and property values can be any datatype 
+
+
+
+ 
+
+ 
